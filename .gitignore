@@ -1,0 +1,10 @@
+.DS_Store
+section8-first-cli/node_modules
+section8-first-cli/dist
+
+# Log files
+section8-first-cli/npm-debug.log*
+section8-first-cli/yarn-debug.log*
+section8-first-cli/yarn-error.log*
+section8-first-cli/pnpm-debug.log*
+
