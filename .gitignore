@@ -7,6 +7,8 @@ section10-demo2-component/node_modules
 section10-demo2-component/dist
 section11-demo3-component/node_modules
 section11-demo3-component/dist
+section12-form/node_modules
+section12-form/dist
 
 # Log files
 section8-first-cli/npm-debug.log*
@@ -28,3 +30,8 @@ section11-demo3-component/npm-debug.log*
 section11-demo3-component/yarn-debug.log*
 section11-demo3-component/yarn-error.log*
 section11-demo3-component/pnpm-debug.log*
+
+section12-form/npm-debug.log*
+section12-form/yarn-debug.log*
+section12-form/yarn-error.log*
+section12-form/pnpm-debug.log*
